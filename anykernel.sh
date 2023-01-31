@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=RyZeN by K A R T H I K @ xda-developers
+kernel.string=Meraki by N I R A N J A N @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=0
